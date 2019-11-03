@@ -1,4 +1,4 @@
-# sperce_inverders
+# Sperce Inverders
 
 You will need
 
